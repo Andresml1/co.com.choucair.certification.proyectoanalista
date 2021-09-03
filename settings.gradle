@@ -1,0 +1,3 @@
+rootProject.name = 'co.com.choucair.certification.proyectoanalista'
+include 'exceptions'
+
